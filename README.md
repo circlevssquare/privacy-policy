@@ -40,4 +40,5 @@ We may update this policy from time to time; the "Last updated" date above will 
 Contact us
 
 Goyat Developer Studios
+
 ajju52028@gmail.com
